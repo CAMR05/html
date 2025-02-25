@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap'); 
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0cf0ce;
+    color: darkorange;
+    font-family: "Jolly Lodger", serif;
+    font-size: 20px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+header{
+    margin: 0;
+    padding: 0;
+    background-color: #262525;
+    color: rgb(255, 0, 0);
+    font-family: "Jolly Lodger", serif;
+    font-size: 20px;
+    text-align: center;
+}
+main{
+font-size: 20px;
+}
+h1{
+    font-family: "Jolly Lodger", serif;
+font-size: 4em;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+.container{
+    width: 100%;
+    padding: 1em;
+    background-color: chartreuse;
+    max-width: 1200px;
+    max-height: 100%;
+    margin: auto;
+    font-family: monospace;
+    color: deeppink;
+}
+footer.container{
+    width: 100%;
+    padding: 1em;
+    background-color: slateblue;
+    max-width: 1200px;
+    max-height: 100%;
+    margin: auto;
+    font-family: monospace;
+    color: lightskyblue;
+    box-shadow: blueviolet 0px 0px 40px;
+}
